@@ -1,2 +1,5 @@
 # julia
-julia workspace
+![](https://img.shields.io/badge/languaga-Julia-yellowgreen)
+
+### run
+julia file.jl
